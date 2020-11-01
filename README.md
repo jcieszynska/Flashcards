@@ -15,9 +15,7 @@
 Flashcards applciation helps you learn new German words. You choose the category, then it generates a random word in German and shows the translation in Polsih. 
 
 ## Screenshots
-![Menu](./screenshots/menu.PNG)
-![Random](./screenshots/losowanie.PNG)
-![Flashcard](./screenshots/flashcard.PNG)
+![Menu](./screenshots/menu.PNG) ![Random](./screenshots/losowanie.PNG) ![Flashcard](./screenshots/flashcard.PNG)
 
 
 ## Technologies
