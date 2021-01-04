@@ -20,7 +20,7 @@ Flashcards applciation helps you learn new German words. You choose the category
 
 ## Technologies
 * Netbeans IDE 
-* SQL Server Managemnets Studio 
+* SQL Server Management Studio 
 
 ## Setup
 To install this application you'll need to add a connection to your local database. 
