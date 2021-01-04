@@ -98,7 +98,7 @@ To-do list:
 Project is: _no longer continue_ due to final exams.
 
 ## Inspiration
-Add here credits. Project based on the University of Gdańsk classes
+Project based on the University of Gdańsk classes
 
 ## Contact
 Created by [@jcieszynska](https://www.github.com/jcieszynska) - feel free to contact me!
